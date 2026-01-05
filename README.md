@@ -26,7 +26,7 @@ Landing Page: Hero section with live ticker preview
 
 Onboarding Flow: Budget selection, user category, and risk profiling
 
-Crypto Panel: BTC, ETH, SOL with mock price simulation
+Crypto Panel: BTC, ETH, SOL 
 
 Bot Dashboard:
 
