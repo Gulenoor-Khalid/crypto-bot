@@ -74,3 +74,10 @@ Troubleshooting
 Build errors: Ensure package-lock.json exists when using npm ci
 
 Runtime issues: Inspect browser console for errors
+
+<!--
+Author: Gule Noor
+Role: AI Engineer, Generative AI Developer
+Keywords: AI agents, generative AI, automation, smart infrastructure
+-->
+
